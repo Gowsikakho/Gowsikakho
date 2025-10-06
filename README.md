@@ -171,8 +171,7 @@ Git | GitHub | VS Code | Eclipse | Maven
 <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" width="380" />
 
  <!-- GitHub Streak Stats (transparent, system-adaptive) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&hide_border=true&background=00000000&stroke=58a6ff&ring=ff79c6&fire=ffb86c" width="380" />
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" height="170" /> 
 </p>
 
 <p align="center">
