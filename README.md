@@ -154,6 +154,26 @@ Git | GitHub | VS Code | Eclipse | Maven
   </tr>
 </table>
 
+## 🏆 Certifications
+
+<p align="center">
+  <!-- Example: Coursera -->
+  <a href="https://www.coursera.org/account/accomplishments/certificate/XXXXXXX" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Coursera-Logo.png" width="100" alt="Coursera" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Example: Udemy -->
+  <a href="https://www.udemy.com/certificate/XXXXXXX" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Udemy_logo.svg" width="100" alt="Udemy" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Example: Google -->
+  <a href="https://www.coursera.org/account/accomplishments/certificate/XXXXXXX" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Certified_Professional_Logo.png" width="100" alt="Google" />
+  </a>
+</p>
+
+
 <!-- GitHub Stats (4 Cards) -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -161,7 +181,7 @@ Git | GitHub | VS Code | Eclipse | Maven
   <!-- General GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="380" />
   <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight&hide_border=true&background=1a1b27" width="380" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
@@ -175,3 +195,6 @@ Git | GitHub | VS Code | Eclipse | Maven
   <!-- Codolio Heatmap (use your uploaded image) -->
   <img src="./profileCard.png" alt="Codolio Heatmap" width="380" />
 </p>
+
+## 🌱 GitHub Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowsikakho&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
