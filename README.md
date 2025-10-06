@@ -157,20 +157,9 @@ Git | GitHub | VS Code | Eclipse | Maven
 ## 🏆 Certifications
 
 <p align="center">
-  <!-- Example: Coursera -->
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XXXXXXX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Coursera-Logo.png" width="100" alt="Coursera" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Example: Udemy -->
-  <a href="https://www.udemy.com/certificate/XXXXXXX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Udemy_logo.svg" width="100" alt="Udemy" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Example: Google -->
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XXXXXXX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Certified_Professional_Logo.png" width="100" alt="Google" />
-  </a>
+<b>NPTEL:</b> Problem Solving through Programming in C, Data Structures and Algorithms using Java, Introduction to Database Systems<br>
+<b>Infosys Springboard:</b> Python Foundation, Java Foundation<br>
+<b>Udemy:</b> C Programming from Scratch to Masters
 </p>
 
 
@@ -181,8 +170,8 @@ Git | GitHub | VS Code | Eclipse | Maven
   <!-- General GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" width="380" />
 
- <!-- GitHub Streak Stats -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight" height="170" />
+ <!-- GitHub Streak Stats (transparent, system-adaptive) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&hide_border=true&background=00000000&stroke=58a6ff&ring=ff79c6&fire=ffb86c" width="380" />
 
 </p>
 
