@@ -77,12 +77,33 @@ Currently diving deep into **JavaScript, React, Firebase, and Cloudinary**, whil
 </p>  
 
 ---
-
-## 📈 GitHub Contributions (Line Graph)
-
+## GitHub Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/output/contributions-line.svg" alt="Contributions Line Graph" />
 </p>
+
+
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Gowsikakho" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://twitter.com/Gowsikakho" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/Gowsikakho" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
+  <a href="mailto:gowsikakho@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+</p>
+
+
+---
+
 
 ---
 
