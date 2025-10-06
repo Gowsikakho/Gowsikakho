@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/main/github-header-banner.jpg" width="100%" alt="Gowsika Banner" />
+  <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/main/github-header-banner.png" width="100%" alt="Banner" />
 </p>
 
 
