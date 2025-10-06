@@ -172,7 +172,7 @@ Git | GitHub | VS Code | Eclipse | Maven
 
 <p align="center">
   <!-- Codolio Heatmap (use your uploaded image) -->
-  <img src="./profileCard.png" alt="Codolio Heatmap" />
+  <img src="./profileCard.png" alt="Codolio Heatmap" width="250px" height="200px" />
 </p>
 
 ---
