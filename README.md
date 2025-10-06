@@ -154,16 +154,26 @@ Git | GitHub | VS Code | Eclipse | Maven
   </tr>
 </table>
 
-## 📈 GitHub Stats  
+<!-- GitHub Stats (4 Cards) -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=radical" height="160"/>
-</p>  
+  <!-- General GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=srsowmiya&show_icons=true&theme=tokyonight" height="170" />
+  <!-- GitHub streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsowmiya&theme=tokyonight" height="170" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&theme=radical"/>
-</p>  
+  <!-- Most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsowmiya&layout=compact&theme=tokyonight" height="170" />
+  <!-- Contribution heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srsowmiya&bg_color=1a1b27&color=70A4FC&line=70A4FC&point=FFFFFF&area=true&hide_border=true" height="300" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="./profileCard.jpg" alt="Codolio card" />
+</p>
 
 ---
 
