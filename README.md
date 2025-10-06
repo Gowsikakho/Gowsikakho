@@ -159,24 +159,21 @@ Git | GitHub | VS Code | Eclipse | Maven
 
 <p align="center">
   <!-- General GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" width="380" />
   <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=dark&hide_border=true&background=00000000&stroke=58a6ff&ring=ff79c6&fire=ffb86c" width="380" />
 </p>
 
 <p align="center">
   <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&theme=tokyonight" height="170" />
-  <!-- Contribution heatmap -->
-</p>
-
-<p align="center">
-  <!-- Codolio Heatmap (use your uploaded image) -->
-  <img src="./profileCard.png" alt="Codolio Heatmap" width="250px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&text_color=c9d1d9&langs_count=6" width="380" />
+  <!-- Codolio Heatmap -->
+  <img src="./profileCard.png" alt="Codolio Heatmap" width="380" />
 </p>
 
 ---
 
-
 ## 🌱 GitHub Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowsikakho&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/output/contributions-line.svg" alt="Contributions Line Graph" width="760" />
+</p>
