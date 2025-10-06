@@ -1,7 +1,18 @@
-# 👋 Hi there, I'm Gowsika  
+# 👋 Hi there, I'm Gowsika
 
-A passionate learner and developer who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
-Currently diving deep into **JavaScript, React, Firebase, and Cloudinary**, while also sharpening my **C, C++, and Java** fundamentals for problem solving.  
+A passionate learner and developer who loves building full-stack web apps, exploring DSA, and working with modern tech tools.  
+Currently diving deep into JavaScript, React, Firebase, and Cloudinary, while also sharpening my C, C++, and Java fundamentals for problem solving.
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gowsikasa42110" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kit27.csbs19@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
@@ -29,7 +40,7 @@ C | C++ | Java | Python | JavaScript
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" alt="Tailwind CSS Logo"/>
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.3cf79d2f.png" width="70" alt="Tailwind CSS Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 </p>  
 HTML | CSS | Tailwind CSS | React  
@@ -104,14 +115,3 @@ Git | GitHub | VS Code | Eclipse | Maven
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowsikakho&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
 
 ---
-
-## 📬 Connect with Me  
-
-<p>
-  <a href="https://www.linkedin.com/in/gowsikasa42110" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  <a href="mailto:kit27.csbs19@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" alt="Gmail Icon"/>
-  </a>
-</p>
