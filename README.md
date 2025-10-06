@@ -21,7 +21,7 @@ Currently diving deep into **JavaScript, React, Firebase, and Cloudinary**, whil
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwind CSS Logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 </p>  
 <p align="center">HTML | CSS | Tailwind CSS | React</p>  
@@ -91,7 +91,7 @@ Currently diving deep into **JavaScript, React, Firebase, and Cloudinary**, whil
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="mailto:kit27.csbs19@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" alt="Mail Icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" alt="Gmail Icon">
   </a>
 </p>
 
