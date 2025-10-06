@@ -1,0 +1,31 @@
+name: GitHub Contribution Line Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Contribution Line Graph
+        uses: ryo-ma/github-contributions-canvas@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: Gowsikakho
+          width: 1000
+          height: 200
+          line_color: "#4caf50"
+          background_color: "transparent"
+          theme: "auto"
+          output: "dist/contributions-line.svg"
+
+      - name: Push Graph to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
