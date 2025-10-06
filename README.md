@@ -182,7 +182,7 @@ Git | GitHub | VS Code | Eclipse | Maven
 <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" width="380" />
 
  <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=dark&hide_border=true&background=00000000&stroke=58a6ff&ring=ff79c6&fire=ffb86c" width="380" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight" height="170" />
 
 </p>
 
@@ -190,8 +190,6 @@ Git | GitHub | VS Code | Eclipse | Maven
   <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&langs_count=6" width="380" />
 
-  <!-- Contribution heatmap -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowsikakho&bg_color=1a1b27&color=70A4FC&line=70A4FC&point=FFFFFF&area=true&hide_border=true" width="760" alt="Contribution Graph" />
 </p>
 
 <p align="center">
