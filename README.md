@@ -159,20 +159,17 @@ Git | GitHub | VS Code | Eclipse | Maven
 
 <p align="center">
   <!-- General GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=srsowmiya&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&theme=tokyonight" height="170" />
   <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsowmiya&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
   <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsowmiya&layout=compact&theme=tokyonight" height="170" />
-  <!-- Contribution heatmap -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srsowmiya&bg_color=1a1b27&color=70A4FC&line=70A4FC&point=FFFFFF&area=true&hide_border=true" height="300" alt="Contribution Graph" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&theme=tokyonight" height="170" />
 
 <p align="center">
-  <img src="./profileCard.jpg" alt="Codolio card" />
+  <img src="profileCard.jpg" alt="Codolio card" />
 </p>
 
 ---
