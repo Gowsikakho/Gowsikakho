@@ -156,7 +156,7 @@ Git | GitHub | VS Code | Eclipse | Maven
 
 ## 🏆 Certifications
 
-<p align="center">
+<p>
 <b>NPTEL:</b> Problem Solving through Programming in C, Data Structures and Algorithms using Java, Introduction to Database Systems<br>
 <b>Infosys Springboard:</b> Python Foundation, Java Foundation<br>
 <b>Udemy:</b> C Programming from Scratch to Masters
