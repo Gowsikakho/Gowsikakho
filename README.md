@@ -167,12 +167,16 @@ Git | GitHub | VS Code | Eclipse | Maven
 <p align="center">
   <!-- Most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&theme=tokyonight" height="170" />
+  <!-- Contribution heatmap -->
+</p>
 
 <p align="center">
-  <img src="profileCard.jpg" alt="Codolio card" />
+  <!-- Codolio Heatmap (use your uploaded image) -->
+  <img src="./profileCard.png" alt="Codolio Heatmap" />
 </p>
 
 ---
+
 
 ## 🌱 GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowsikakho&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
