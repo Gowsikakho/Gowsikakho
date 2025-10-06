@@ -1,179 +1,123 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/main/github-header-banner.png" alt="Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/main/github-header-banner.png" width="100%" alt="Banner" />
 </p>
 
-<!-- Skills Animation GIF -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" alt="Skills Animation" src="./Skills_Animation_White.gif" width="30%">
-</picture>
-<br />
+### About Me
+> Code whisperer, pixel prankster, and data detective on a mission to turn coffee into code and dreams into deployable reality! Whether it’s wrangling algorithms, spinning up full‑stack wonders, or hacking together side projects, every day starts with curiosity and ends with a commit that makes tech a tad more delightful.  
+> Always ready to celebrate a bug fix with a victory dance, chasing deadlines with resilience, and turning “what ifs” into “why nots.”
 
-<!-- Social Badges -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/gowsikasa42110" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kit27.csbs19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/Gowsikakho/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/gowsikakho" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
+### Contact
+
+<a href="https://www.linkedin.com/in/gowsikasa42110" title="LinkedIn">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:kit27.csbs19@gmail.com" title="Email">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/envelope.svg" width="28" alt="Email" />
+  <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/main/gmail_3128267.png" width="28" alt="Email" />
+</a>
+
+<!-- Codolio Profile Card -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/main/profileCard.png" width="300" alt="Codolio Profile Card"/>
 </p>
 
 ---
 
-### 👋 About Me
-Explorative coder, creative architect, and relentless **problem-solver**.  
-On a mission to turn **curiosity** and coffee into powerful code—transforming ideas into reality!  
-Every project is a learning adventure: fueled by **joy**, driven by **resilience**, and guided by a “why not?” spirit.  
-Tech is my playground—celebrating wins, tackling bugs, and building with *enthusiasm* and purpose.  
-**Let’s build, break, and innovate together!**
-
----
-
-## 🔧 Technical Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-</p>
-C | C++ | Java | Python | JavaScript
-
----
-
-### 🧩 Frontend | Backend | DSA | Tools
+## 📌 Projects
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-#### 🎨 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-</p>
-HTML | CSS | Bootstrap | React
-
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Gowsikakho/auction-bidding-app/main/preview.png" width="80%" alt="Auction Bidding App Preview"/><br>
+ <h3>Auction Bidding App</h3>
+      <b>Tech:</b> React, Firebase, Cloudinary<br>
+      <b>Description:</b> Dynamic web app for live auctions. Features seller dashboard and secure image uploads.<br>
+      <b>Features:</b> Auth, live bids, image management.<br>
+      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18"/> Firebase,
+      <img src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg" width="18"/> Cloudinary <br>
+      <b>Description:</b> Dynamic web app for live auctions. Seller dashboard and secure image uploads.<br>
+      <b>Features:</b>
+      <ul align="left">
+        <li>🔒 Authenticated bidding</li>
+        <li>⚡ Real-time updates</li>
+        <li>🖼️ Image management</li>
+      </ul>
+ <b>Repo:</b> <a href="https://github.com/Gowsikakho/auction-bidding-app">View on GitHub</a>
 </td>
-<td align="center" width="50%">
-
-#### ⚙️ Backend & Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-  <img src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg" width="45" alt="Cloudinary"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-</p>
-Firebase | Cloudinary | MySQL | REST APIs
-
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Gowsikakho/tindog-clone/main/preview.png" width="80%" alt="TinDog Clone Preview"/><br>
+ <h3>TinDog Clone Website</h3>
+      <b>Tech:</b> HTML, CSS, Bootstrap<br>
+      <b>Description:</b> Responsive website inspired by Tinder for dogs with sleek design.<br>
+      <b>Features:</b> Profile swiping, mobile-friendly layout.<br>
+      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18"/> CSS,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="18"/> Bootstrap <br>
+      <b>Description:</b> Responsive Tinder-inspired site for dogs, sleek and mobile ready.<br>
+      <b>Features:</b>
+      <ul align="left">
+        <li>📱 Mobile-friendly design</li>
+        <li>💖 Fun UI animations</li>
+        <li>👓 Clean layout</li>
+      </ul>
+ <b>Repo:</b> <a href="https://github.com/Gowsikakho/tindog-clone">View on GitHub</a>
 </td>
 </tr>
-
 <tr>
-<td align="center" width="50%">
-
-#### 📊 DSA & Competitive Programming
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
-  <img src="https://sta.codeforces.com/s/42836/images/codeforces-logo-with-telegram.png" width="45"/>
-</p>
-Data Structures | Competitive Programming
-
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Gowsikakho/expense-tracker/main/preview.png" width="80%" alt="Expense Tracker Preview"/><br>
+ <h3>Expense Tracker</h3>
+      <b>Tech:</b> React, Firebase<br>
+      <b>Description:</b> Tracker for income & expenses with real-time charts.<br>
+      <b>Features:</b> CRUD transactions, dashboard, authentication.<br>
+      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18"/> Firebase <br>
+      <b>Description:</b> Income & expenses tracker with real-time charts and dashboards.<br>
+      <b>Features:</b>
+      <ul align="left">
+        <li>💰 Transaction management</li>
+        <li>📊 Visual insights</li>
+        <li>🔒 Auth & data security</li>
+      </ul>
+ <b>Repo:</b> <a href="https://github.com/Gowsikakho/expense-tracker">View on GitHub</a>
 </td>
-<td align="center" width="50%">
-
-#### 🛠️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
-  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="70"/>
-</p>
-Git | GitHub | VS Code | Eclipse | Maven
-
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Gowsikakho/todo-maven/main/preview.png" width="80%" alt="Todo Maven Preview"/><br>
+ <h3>Todo Maven</h3>
+      <b>Tech:</b> Java, Maven<br>
+      <b>Description:</b> CLI todo app for efficient task management.<br>
+      <b>Features:</b> Priorities, data persistence.<br>
+      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="18"/> Maven <br>
+      <b>Description:</b> CLI todo app for streamlined, prioritized task tracking.<br>
+      <b>Features:</b>
+      <ul align="left">
+        <li>⚡ Fast CLI interface</li>
+        <li>🔖 Priority support</li>
+        <li>💾 Data persistence</li>
+      </ul>
+ <b>Repo:</b> <a href="https://github.com/Gowsikakho/todo-maven">View on GitHub</a>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Stats  
 
-<div align="center">
-
-<div style="display:inline-block; width:45%; vertical-align:top; margin:10px; padding:15px; border:1px solid #ddd; border-radius:5px; background-color:#ffffff10;">
-  <h3>🎯 Auction Bidding App</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="22"/>
-  </p>
-  <p><b>Description:</b> Real-time bidding platform with secure uploads and instant updates.</p>
-  <ul align="left">
-    <li>🔒 Firebase Authentication</li>
-    <li>⚡ Instant bid updates</li>
-    <li>🖼️ Cloudinary image upload</li>
-  </ul>
-  <p><a href="https://github.com/Gowsikakho/auction-bidding-app">🔗 View Repository</a></p>
-</div>
-
-<div style="display:inline-block; width:45%; vertical-align:top; margin:10px; padding:15px; border:1px solid #ddd; border-radius:5px; background-color:#ffffff10;">
-  <h3>🐾 TinDog Clone</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="22"/>
-  </p>
-  <p><b>Description:</b> Responsive Tinder-for-dogs landing page built with HTML, CSS, Bootstrap.</p>
-  <ul align="left">
-    <li>📱 Mobile-friendly UI</li>
-    <li>💖 Clean & vibrant design</li>
-    <li>🎨 Custom interactions</li>
-  </ul>
-  <p><a href="https://github.com/Gowsikakho/tindog-clone">🔗 View Repository</a></p>
-</div>
-
-</div>
-
----
-
-### 📈 GitHub Stats & Contribution Graph
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=radical" height="160" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/username=Gowsikakho&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=radical" height="160"/>
+</p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&theme=default&bg_color=00000000&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Gowsikakho&hide_border=true&background=FFFFFF00&ring=5B2A86&fire=ff6600&currStreakNum=ff6600" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&theme=radical"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&hide_border=true&bg_color=00000000" height="180" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowsikakho&bg_color=00000000&color=5B2A86&line=ff6600&point=23bfa7&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</p>
-
----
-
-### My Approach
-I work smarter, not harder—focusing on **efficient code**, **problem-solving**, and **scalable solutions**.
-
----
-
-### My LeetCode & Codolio Stats
-<div align="center">
-  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" align="left" width="45%">
-  <div align="right">
-    <h3>My Codolio</h3>
-    <img align="right" alt="Codolio Card" src="./profileCard.png" width="30%">
-  </div>
-</div>
