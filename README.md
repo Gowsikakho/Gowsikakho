@@ -102,8 +102,7 @@ Git | GitHub | VS Code | Eclipse | Maven
     <!-- Auction Bidding App Card -->
     <td width="50%" valign="top" align="center">
       <!-- Replace with your actual repo/project screenshot if available.
-           Otherwise, remove the img tag below. -->
-      <img src="https://raw.githubusercontent.com/Gowsikakho/auction-bidding-app/main/preview.png" width="80%" alt="Auction Bidding App Preview" style="background: transparent;" /><br>
+           Otherwise, remove the img tag below. --><br>
       <h3>Auction Bidding App</h3>
       <b>Tech:</b>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React,&nbsp;
@@ -121,8 +120,7 @@ Git | GitHub | VS Code | Eclipse | Maven
       <a href="https://github.com/Gowsikakho/auction-bidding-app">View on GitHub</a>
     </td>
     <!-- TinDog Clone Card -->
-    <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Gowsikakho/tindog-clone/main/preview.png" width="80%" alt="TinDog Clone Preview" style="background: transparent;" /><br>
+    <td width="50%" valign="top" align="center"><br>
       <h3>TinDog Clone Website</h3>
       <b>Tech:</b>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML,&nbsp;
@@ -142,8 +140,7 @@ Git | GitHub | VS Code | Eclipse | Maven
   </tr>
   <tr>
     <!-- Expense Tracker Card -->
-    <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Gowsikakho/expense-tracker/main/preview.png" width="80%" alt="Expense Tracker Preview" style="background: transparent;" /><br>
+    <td width="50%" valign="top" align="center"><br>
       <h3>Expense Tracker</h3>
       <b>Tech:</b>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React,&nbsp;
@@ -160,8 +157,7 @@ Git | GitHub | VS Code | Eclipse | Maven
       <a href="https://github.com/Gowsikakho/expense-tracker">View on GitHub</a>
     </td>
     <!-- Todo Maven Card -->
-    <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Gowsikakho/todo-maven/main/preview.png" width="80%" alt="Todo Maven Preview" style="background: transparent;" /><br>
+    <td width="50%" valign="top" align="center"><br>
       <h3>Todo Maven</h3>
       <b>Tech:</b>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java,&nbsp;
@@ -186,7 +182,8 @@ Git | GitHub | VS Code | Eclipse | Maven
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&bg_color=00000000&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Gowsikakho&hide_border=true&background=FFFFFF00&ring=5B2A86&fire=ff6600&currStreakNum=ff6600" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gowsikakho&hide_border=true&background=FFFFFF00&ring=5B2A86&fire=ff6600&currStreakNum=ff6600" height="160" alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
