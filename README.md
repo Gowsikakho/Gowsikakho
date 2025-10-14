@@ -121,7 +121,7 @@ Git | GitHub | VS Code | Eclipse | Maven
         <li>💖 Fun UI animations</li>
         <li>👓 Clean layout</li>
       </ul>
-      <b>Repo:</b> <a href="[https://github.com/Gowsikakho/full-stack-internship/tree/main/day11"]>View on GitHub</a>
+      <b>Repo:</b> <a href="[https://github.com/Gowsikakho/full-stack-internship/tree/main/day11]">View on GitHub</a>
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ Git | GitHub | VS Code | Eclipse | Maven
         <li>📊 Visual insights</li>
         <li>🔒 Auth & data security</li>
       </ul>
-      <b>Repo:</b> <a href="https://github.com/Gowsikakho/expense-track">View on GitHub</a>
+      <b>Repo:</b> <a href="https://github.com/Gowsikakho/expense_track">View on GitHub</a>
     </td>
     <td width="50%" valign="top" align="center"><br>
       <h3>Todo Maven</h3>
