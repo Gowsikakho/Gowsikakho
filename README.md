@@ -107,7 +107,7 @@ Git | GitHub | VS Code | Eclipse | Maven
         <li>⚡ Real-time updates</li>
         <li>🖼️ Image management</li>
       </ul>
-      <b>Repo:</b> <a href="https://github.com/Gowsikakho/auction-bidding-app">View on GitHub</a>
+      <b>Repo:</b> <a href="https://github.com/lakshanaaaaa/AuctionPlatform-">View on GitHub</a>
     </td>
     <td width="50%" valign="top" align="center"><br>
       <h3>TinDog Clone Website</h3>
@@ -121,7 +121,7 @@ Git | GitHub | VS Code | Eclipse | Maven
         <li>💖 Fun UI animations</li>
         <li>👓 Clean layout</li>
       </ul>
-      <b>Repo:</b> <a href="https://github.com/Gowsikakho/tindog-clone">View on GitHub</a>
+      <b>Repo:</b> <a href="[https://github.com/Gowsikakho/full-stack-internship/tree/main/day11"]>View on GitHub</a>
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ Git | GitHub | VS Code | Eclipse | Maven
         <li>📊 Visual insights</li>
         <li>🔒 Auth & data security</li>
       </ul>
-      <b>Repo:</b> <a href="https://github.com/Gowsikakho/expense-tracker">View on GitHub</a>
+      <b>Repo:</b> <a href="https://github.com/Gowsikakho/expense-track">View on GitHub</a>
     </td>
     <td width="50%" valign="top" align="center"><br>
       <h3>Todo Maven</h3>
