@@ -3,10 +3,10 @@
   <img src="https://raw.githubusercontent.com/Gowsikakho/Gowsikakho/main/github-header-banner.png" width="100%" alt="Banner" />
 </p>
 
+### About Me
+I’m a passionate coder and problem-solver who loves turning ideas into working software. From building full‑stack applications to exploring algorithms and data, I thrive on curiosity, learning, and practical results. Every day is an opportunity to tackle new challenges, debug smarter, and deliver solutions that make an impact.
 
-###  About Me
-> Code whisperer, pixel prankster, and data detective on a mission to turn coffee into code and dreams into deployable reality! Whether it’s wrangling algorithms, spinning up full‑stack wonders, or hacking together side projects, every day starts with curiosity and ends with a commit that makes tech a tad more delightful.  
-> Always ready to celebrate a bug fix with a victory dance, chasing deadlines with resilience, and turning “what ifs” into “why nots.”
+I enjoy collaborating on projects, celebrating progress—no matter how small—and approaching every problem with a “why not?” mindset. Whether it’s coding, optimizing workflows, or experimenting with side projects, I aim to create software that’s both functional and enjoyable to use.
 
 ### Contact
 
@@ -20,9 +20,9 @@
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
@@ -34,13 +34,13 @@ C | C++ | Java | Python | JavaScript
 
 ---
 
-### 🧩 Frontend | Backend | DSA | Tools
+### Frontend | Backend | DSA | Tools
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-#### 🎨 Frontend
+#### Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
@@ -51,7 +51,7 @@ HTML | CSS | React
 </td>
 <td align="center" width="50%">
 
-#### ⚙️ Backend & Database
+#### Backend & Database
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
   <img src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg" width="45" alt="Cloudinary"/>
@@ -66,7 +66,7 @@ Firebase | Cloudinary | MySQL | REST APIs
 <tr>
 <td align="center" width="50%">
 
-#### 📊 DSA & Competitive Programming
+#### DSA & Competitive Programming
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
   <img src="https://sta.codeforces.com/s/42836/images/codeforces-logo-with-telegram.png" width="45"/>
@@ -76,7 +76,7 @@ Data Structures | Competitive Programming
 </td>
 <td align="center" width="50%">
 
-#### 🛠️ Tools & Platforms
+#### Tools & Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
@@ -90,100 +90,91 @@ Git | GitHub | VS Code | Eclipse | Maven
 </tr>
 </table>
 
-## 📌 Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
       <br>
       <h3>Auction Bidding App</h3>
-      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18"/> Firebase,
-      <img src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg" width="18"/> Cloudinary <br>
-      <b>Description:</b> Dynamic web app for live auctions. Seller dashboard and secure image uploads.<br>
-      <b>Features:</b>
+      <b>Tech:</b> React, Firebase, Cloudinary <br>
+      <b>Description:</b> Real-time auction platform where users can bid on products instantly. Sellers can upload images and manage auctions seamlessly.<br>
+      <b>Highlights:</b>
       <ul align="left">
-        <li>🔒 Authenticated bidding</li>
-        <li>⚡ Real-time updates</li>
-        <li>🖼️ Image management</li>
+        <li>Secure authentication for bidders and sellers</li>
+        <li>Live bidding updates for a smooth user experience</li>
+        <li>Cloud-based image uploads and management</li>
+        <li>Focus on usability and responsiveness</li>
       </ul>
       <b>Repo:</b> <a href="https://github.com/lakshanaaaaa/AuctionPlatform-">View on GitHub</a>
     </td>
-    <td width="50%" valign="top" align="center"><br>
+    <td width="50%" valign="top" align="center">
+      <br>
       <h3>TinDog Clone Website</h3>
-      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18"/> CSS,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="18"/> Bootstrap <br>
-      <b>Description:</b> Responsive Tinder-inspired site for dogs, sleek and mobile ready.<br>
-      <b>Features:</b>
+      <b>Tech:</b> HTML, CSS, Bootstrap <br>
+      <b>Description:</b> Tinder-inspired platform for dog lovers, fully responsive with smooth UI interactions.<br>
+      <b>Highlights:</b>
       <ul align="left">
-        <li>📱 Mobile-friendly design</li>
-        <li>💖 Fun UI animations</li>
-        <li>👓 Clean layout</li>
+        <li>Mobile-first responsive design</li>
+        <li>Engaging UI animations and transitions</li>
+        <li>Clean and organized layout for easy navigation</li>
+        <li>Emphasis on aesthetics and user experience</li>
       </ul>
-     <b>Repo:</b> <a href="https://github.com/Gowsikakho/full-stack-internship/tree/main/day11">View on GitHub</a>
+      <b>Repo:</b> <a href="https://github.com/Gowsikakho/full-stack-internship/tree/main/day11">View on GitHub</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center"><br>
+    <td width="50%" valign="top" align="center">
+      <br>
       <h3>Expense Tracker</h3>
-      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18"/> Firebase <br>
-      <b>Description:</b> Income & expenses tracker with real-time charts and dashboards.<br>
-      <b>Features:</b>
+      <b>Tech:</b> React, Firebase <br>
+      <b>Description:</b> Real-time personal finance tracker to manage income and expenses with interactive charts and dashboards.<br>
+      <b>Highlights:</b>
       <ul align="left">
-        <li>💰 Transaction management</li>
-        <li>📊 Visual insights</li>
-        <li>🔒 Auth & data security</li>
+        <li>Efficient transaction management and categorization</li>
+        <li>Visual insights via dynamic charts for better financial decisions</li>
+        <li>User authentication and secure data storage</li>
+        <li>Focus on user-friendly interface and responsiveness</li>
       </ul>
       <b>Repo:</b> <a href="https://github.com/Gowsikakho/expense_track">View on GitHub</a>
     </td>
-    <td width="50%" valign="top" align="center"><br>
+    <td width="50%" valign="top" align="center">
+      <br>
       <h3>Todo Maven</h3>
-      <b>Tech:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="18"/> Maven <br>
-      <b>Description:</b> CLI todo app for streamlined, prioritized task tracking.<br>
-      <b>Features:</b>
+      <b>Tech:</b> Java, Maven <br>
+      <b>Description:</b> Command-line interface task manager that prioritizes tasks and ensures persistent storage.<br>
+      <b>Highlights:</b>
       <ul align="left">
-        <li>⚡ Fast CLI interface</li>
-        <li>🔖 Priority support</li>
-        <li>💾 Data persistence</li>
+        <li>Quick and intuitive CLI interface</li>
+        <li>Supports task prioritization for better organization</li>
+        <li>Saves tasks locally for long-term tracking</li>
+        <li>Lightweight solution for productivity enthusiasts</li>
       </ul>
       <b>Repo:</b> <a href="https://github.com/Gowsikakho/todo-maven">View on GitHub</a>
     </td>
   </tr>
 </table>
 
-## 🏆 Certifications
+## Certifications
 
-<p>
-<b>NPTEL:</b> Problem Solving through Programming in C, Data Structures and Algorithms using Java, Introduction to Database Systems<br>
-<b>Infosys Springboard:</b> Python Foundation, Java Foundation<br>
-<b>Udemy:</b> C Programming from Scratch to Masters
-</p>
+**NPTEL:** Problem Solving through Programming in C, Data Structures and Algorithms using Java, Introduction to Database Systems  
+**Infosys Springboard:** Python Foundation, Java Foundation  
+**Udemy:** C Programming from Scratch to Masters  
 
-
-<!-- GitHub Stats (4 Cards) -->
-<h2 align="center">📊 GitHub Stats</h2>
+## GitHub Stats
 
 <p align="center">
-  <!-- General GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Gowsikakho&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" width="380" />
-
- <!-- GitHub Streak Stats (transparent, system-adaptive) -->
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight" height="170" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowsikakho&theme=tokyonight" height="170" /> 
 </p>
 
 <p align="center">
-  <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikakho&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&langs_count=6" width="380" />
-
 </p>
 
 <p align="center">
-  <!-- Codolio Heatmap (use your uploaded image) -->
-  <img src="./profileCard.png" alt="Codolio Heatmap" width="380" />
+<img src="./profileCard.png" alt="Codolio Heatmap" width="380" />
 </p>
 
-## 🌱 GitHub Contribution Graph
+## GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowsikakho&bg_color=transparent&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true&type=line)
