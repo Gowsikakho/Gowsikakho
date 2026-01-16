@@ -185,6 +185,13 @@ Git | GitHub | VS Code | Eclipse | Maven
 
 ## 🎓 Certifications & Credentials
 
+### AWS Academy
+- **AWS Academy Graduate – Cloud Foundations**  
+  Completed an intensive program covering core AWS concepts and hands-on labs, including EC2 management, regions & availability zones, and cloud deployment fundamentals.  
+  Gained practical experience applying cloud principles to real-world scenarios.  
+  Special thanks to Mahalakshmi Ma’am for guidance and encouragement.  
+  🔗 [Digital Badge](paste-your-badge-link-here)
+
 ### NPTEL (IITs & IISc – Government of India)
 - Problem Solving through Programming in C  
 - Data Structures and Algorithms using Java  
